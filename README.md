@@ -13,6 +13,5 @@ Member :
 - Daniel Ricky Alexander
 - F. Hanindya Fernandito
 
-Jika Ingin melihat websitenya bisa menggunakan link ini atau downlaod filenya
-[lavaca.vercel.app](https://lavaca.vercel.app/)
-https://wdconlineshop2023.fernanditoppo.repl.co/
+Jika Ingin melihat websitenya bisa menggunakan link ini
+- [lavaca.vercel.app](https://lavaca.vercel.app/)
