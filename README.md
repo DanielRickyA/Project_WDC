@@ -14,4 +14,5 @@ Member :
 - F. Hanindya Fernandito
 
 Jika Ingin melihat websitenya bisa menggunakan link ini atau downlaod filenya
+lavaca.vercel.app
 https://wdconlineshop2023.fernanditoppo.repl.co/
